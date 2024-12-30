@@ -32,9 +32,4 @@ CSS Flexbox and Grid: Flexbox and CSS Grid are used for creating a flexible and 
 
 **Social Media Integration:** Links to social media platforms like Facebook, Twitter, LinkedIn, and Instagram are included for easy social sharing.
 
-# Live Demo / Preview 
-
-To get a better understanding of how the website works, check out the screen recording below. It showcases the responsive design, smooth animations, and interactive features of the page in action.
-Watch the demo to see the project's features in real-time!
-
 ![UdemigTour-GoogleChrome2024-10-2219-26-17-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/89cd2651-46d8-4c94-adc3-1668a35ec26e)
